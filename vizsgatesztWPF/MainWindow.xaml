@@ -1,0 +1,27 @@
+﻿<Window x:Class="vizsgatesztWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vizsgatesztWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="547" Width="800">
+    <Grid Height="537" VerticalAlignment="Top">
+        <DataGrid x:Name="datagrid" AutoGenerateColumns="False" Margin="0,0,681,10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="a" Binding="{Binding a}" />
+                <DataGridTextColumn Header="b" Binding="{Binding b}" />
+                <DataGridTextColumn Header="c" Binding="{Binding c}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="a:" HorizontalAlignment="Left" Margin="480,34,0,0" VerticalAlignment="Top"/>
+        <Label Content="b:" HorizontalAlignment="Left" Margin="480,65,0,0" VerticalAlignment="Top"/>
+        <Label Content="c:" HorizontalAlignment="Left" Margin="480,96,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textboxa" HorizontalAlignment="Left" Margin="504,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textboxb" HorizontalAlignment="Left" Margin="505,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textboxc" HorizontalAlignment="Left" Margin="505,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="hozzaad" Content="hozzaad" HorizontalAlignment="Left" Margin="523,148,0,0" VerticalAlignment="Top" Click="hozzaad_Click"/>
+        <Button x:Name="mentes" Content="mentes" HorizontalAlignment="Left" Margin="422,382,0,0" VerticalAlignment="Top" Click="mentes_Click"/>
+
+    </Grid>
+</Window>
