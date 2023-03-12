@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iskola", "Iskola\Iskola.csproj", "{6168F0D6-FE46-42C6-A24A-FA797D601088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IskolaTests", "IskolaTests\IskolaTests.csproj", "{B95A9FFF-87DB-4682-8D33-3A60786127A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IskolaWPF", "IskolaWPF\IskolaWPF.csproj", "{620003E7-CFCE-4CD3-98ED-6FBD7249D91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6168F0D6-FE46-42C6-A24A-FA797D601088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6168F0D6-FE46-42C6-A24A-FA797D601088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6168F0D6-FE46-42C6-A24A-FA797D601088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6168F0D6-FE46-42C6-A24A-FA797D601088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95A9FFF-87DB-4682-8D33-3A60786127A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95A9FFF-87DB-4682-8D33-3A60786127A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95A9FFF-87DB-4682-8D33-3A60786127A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95A9FFF-87DB-4682-8D33-3A60786127A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620003E7-CFCE-4CD3-98ED-6FBD7249D91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620003E7-CFCE-4CD3-98ED-6FBD7249D91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620003E7-CFCE-4CD3-98ED-6FBD7249D91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620003E7-CFCE-4CD3-98ED-6FBD7249D91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A57B2D-E921-4D6A-8DE1-91D0FA84740E}
+	EndGlobalSection
+EndGlobal
