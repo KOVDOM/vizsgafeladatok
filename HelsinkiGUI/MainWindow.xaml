@@ -1,0 +1,21 @@
+﻿<Window x:Class="HelsinkiGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelsinkiGUI"
+        mc:Ignorable="d"
+        Title="HelsinkiWPF" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="datagrid" AutoGenerateColumns="False" Margin="10,10,240,22">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Helyezés" Binding="{Binding helyezes}" />
+                <DataGridTextColumn Header="Sporolokszáma" Binding="{Binding sporotolok}" />
+                <DataGridTextColumn Header="Sportág" Binding="{Binding sportag}" />
+                <DataGridTextColumn Header="Sportszám" Binding="{Binding sportszam}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="dsq" Content="Diszkvalifikál" HorizontalAlignment="Left" Margin="643,59,0,0" VerticalAlignment="Top" Height="26" Width="86" Click="dsq_Click"/>
+        <Button x:Name="mentes" Content="Mentés" HorizontalAlignment="Left" Margin="643,106,0,0" VerticalAlignment="Top" Height="26" Width="86" Click="mentes_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\bin\Debug\HelsinkiGUI.exe.config
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\bin\Debug\HelsinkiGUI.exe
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\bin\Debug\HelsinkiGUI.pdb
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI.csproj.AssemblyReference.cache
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\MainWindow.g.cs
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\App.g.cs
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI_MarkupCompile.cache
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI_MarkupCompile.lref
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\MainWindow.baml
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI.g.resources
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI.Properties.Resources.resources
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI.csproj.GenerateResource.cache
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI.exe
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiGUI\obj\Debug\HelsinkiGUI.pdb

@@ -1,0 +1,8 @@
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiCLI\bin\Debug\HelsinkiCLI.exe.config
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiCLI\bin\Debug\HelsinkiCLI.exe
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiCLI\bin\Debug\HelsinkiCLI.pdb
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiCLI\obj\Debug\HelsinkiCLI.csproj.AssemblyReference.cache
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiCLI\obj\Debug\HelsinkiCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiCLI\obj\Debug\HelsinkiCLI.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiCLI\obj\Debug\HelsinkiCLI.exe
+C:\Users\kovdo\source\repos\HelsinkiCLI\HelsinkiCLI\obj\Debug\HelsinkiCLI.pdb
