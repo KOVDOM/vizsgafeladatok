@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Kemia_elemek\Kemia_elemek\bin\Debug\Kemia_elemek.exe.config
+C:\Users\ADMIN\source\repos\Kemia_elemek\Kemia_elemek\bin\Debug\Kemia_elemek.exe
+C:\Users\ADMIN\source\repos\Kemia_elemek\Kemia_elemek\bin\Debug\Kemia_elemek.pdb
+C:\Users\ADMIN\source\repos\Kemia_elemek\Kemia_elemek\obj\Debug\Kemia_elemek.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Kemia_elemek\Kemia_elemek\obj\Debug\Kemia_elemek.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Kemia_elemek\Kemia_elemek\obj\Debug\Kemia_elemek.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Kemia_elemek\Kemia_elemek\obj\Debug\Kemia_elemek.exe
+C:\Users\ADMIN\source\repos\Kemia_elemek\Kemia_elemek\obj\Debug\Kemia_elemek.pdb
