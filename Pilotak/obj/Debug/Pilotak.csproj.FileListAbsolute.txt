@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Pilotak\Pilotak\bin\Debug\Pilotak.exe.config
+C:\Users\ADMIN\source\repos\Pilotak\Pilotak\bin\Debug\Pilotak.exe
+C:\Users\ADMIN\source\repos\Pilotak\Pilotak\bin\Debug\Pilotak.pdb
+C:\Users\ADMIN\source\repos\Pilotak\Pilotak\obj\Debug\Pilotak.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Pilotak\Pilotak\obj\Debug\Pilotak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Pilotak\Pilotak\obj\Debug\Pilotak.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Pilotak\Pilotak\obj\Debug\Pilotak.exe
+C:\Users\ADMIN\source\repos\Pilotak\Pilotak\obj\Debug\Pilotak.pdb
