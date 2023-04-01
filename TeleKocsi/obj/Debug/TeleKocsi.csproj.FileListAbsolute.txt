@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\TeleKocsi\TeleKocsi\obj\Debug\TeleKocsi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\TeleKocsi\TeleKocsi\obj\Debug\TeleKocsi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\TeleKocsi\TeleKocsi\obj\Debug\TeleKocsi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\TeleKocsi\TeleKocsi\bin\Debug\TeleKocsi.exe.config
+C:\Users\ADMIN\source\repos\TeleKocsi\TeleKocsi\bin\Debug\TeleKocsi.exe
+C:\Users\ADMIN\source\repos\TeleKocsi\TeleKocsi\bin\Debug\TeleKocsi.pdb
+C:\Users\ADMIN\source\repos\TeleKocsi\TeleKocsi\obj\Debug\TeleKocsi.exe
+C:\Users\ADMIN\source\repos\TeleKocsi\TeleKocsi\obj\Debug\TeleKocsi.pdb
