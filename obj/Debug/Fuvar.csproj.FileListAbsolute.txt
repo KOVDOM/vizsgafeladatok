@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Fuvar\Fuvar\bin\Debug\Fuvar.exe.config
+C:\Users\ADMIN\source\repos\Fuvar\Fuvar\bin\Debug\Fuvar.exe
+C:\Users\ADMIN\source\repos\Fuvar\Fuvar\bin\Debug\Fuvar.pdb
+C:\Users\ADMIN\source\repos\Fuvar\Fuvar\obj\Debug\Fuvar.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Fuvar\Fuvar\obj\Debug\Fuvar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Fuvar\Fuvar\obj\Debug\Fuvar.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Fuvar\Fuvar\obj\Debug\Fuvar.exe
+C:\Users\ADMIN\source\repos\Fuvar\Fuvar\obj\Debug\Fuvar.pdb
