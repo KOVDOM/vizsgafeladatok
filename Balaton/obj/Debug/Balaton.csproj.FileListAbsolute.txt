@@ -1,0 +1,8 @@
+C:\Users\kovdo\source\repos\Balaton\Balaton\bin\Debug\Balaton.exe.config
+C:\Users\kovdo\source\repos\Balaton\Balaton\bin\Debug\Balaton.exe
+C:\Users\kovdo\source\repos\Balaton\Balaton\bin\Debug\Balaton.pdb
+C:\Users\kovdo\source\repos\Balaton\Balaton\obj\Debug\Balaton.csproj.AssemblyReference.cache
+C:\Users\kovdo\source\repos\Balaton\Balaton\obj\Debug\Balaton.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovdo\source\repos\Balaton\Balaton\obj\Debug\Balaton.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\source\repos\Balaton\Balaton\obj\Debug\Balaton.exe
+C:\Users\kovdo\source\repos\Balaton\Balaton\obj\Debug\Balaton.pdb

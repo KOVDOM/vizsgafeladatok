@@ -1,0 +1,27 @@
+﻿<Window x:Class="BalatonGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BalatonGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="datagrid" AutoGenerateColumns="False" Margin="10,10,323,10" Width="NaN" Height="NaN">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Adószám" Binding="{Binding adoszam}"/>
+                <DataGridTextColumn Header="Utca neve" Binding="{Binding utcaneve}"/>
+                <DataGridTextColumn Header="Házszám" Binding="{Binding hazszam}"/>
+                <DataGridTextColumn Header="Adósáv" Binding="{Binding adosav}"/>
+                <DataGridTextColumn Header="Alapterület" Binding="{Binding alapterulet}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="combobox" HorizontalAlignment="Left" Margin="499,52,0,0" VerticalAlignment="Top" Width="94" Height="33" SelectionChanged="combobox_SelectionChanged">
+            <ComboBoxItem Content="A" />
+            <ComboBoxItem Content="B" />
+            <ComboBoxItem Content="C" />
+        </ComboBox>
+        <Button x:Name="modosit" Content="Módosít" HorizontalAlignment="Left" Margin="639,52,0,0" VerticalAlignment="Top" Height="33" Width="70" Click="modosit_Click"/>
+        <Button x:Name="mentes" Content="Mentés" HorizontalAlignment="Left" Margin="639,107,0,0" VerticalAlignment="Top" Height="33" Width="70" Click="mentes_Click"/>
+    </Grid>
+</Window>
