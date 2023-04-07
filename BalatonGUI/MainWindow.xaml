@@ -16,10 +16,15 @@
                 <DataGridTextColumn Header="Alapterület" Binding="{Binding alapterulet}"/>
             </DataGrid.Columns>
         </DataGrid>
-        <ComboBox x:Name="combobox" HorizontalAlignment="Left" Margin="499,52,0,0" VerticalAlignment="Top" Width="94" Height="33" SelectionChanged="combobox_SelectionChanged">
-            <ComboBoxItem Content="A" />
-            <ComboBoxItem Content="B" />
-            <ComboBoxItem Content="C" />
+        <ComboBox Name="combobox" HorizontalAlignment="Left" Margin="530,79,0,0" VerticalAlignment="Top" Width="61" Height="21" RenderTransformOrigin="0.5,0.5">
+            <ComboBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.799"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ComboBox.RenderTransform>
         </ComboBox>
         <Button x:Name="modosit" Content="Módosít" HorizontalAlignment="Left" Margin="639,52,0,0" VerticalAlignment="Top" Height="33" Width="70" Click="modosit_Click"/>
         <Button x:Name="mentes" Content="Mentés" HorizontalAlignment="Left" Margin="639,107,0,0" VerticalAlignment="Top" Height="33" Width="70" Click="mentes_Click"/>

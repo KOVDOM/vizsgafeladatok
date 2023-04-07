@@ -33,5 +33,9 @@ namespace BalatonGUI
             adosav = b[3];
             alapterulet = int.Parse(b[4]);
         }
+        public void SetTaxchar(string newValue)
+        {
+            adosav = newValue;
+        }
     }
 }

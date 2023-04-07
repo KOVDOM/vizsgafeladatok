@@ -14,3 +14,19 @@ C:\Users\kovdo\source\repos\Balaton\BalatonGUI\obj\Debug\BalatonGUI.csproj.Gener
 C:\Users\kovdo\source\repos\Balaton\BalatonGUI\obj\Debug\BalatonGUI.csproj.CoreCompileInputs.cache
 C:\Users\kovdo\source\repos\Balaton\BalatonGUI\obj\Debug\BalatonGUI.exe
 C:\Users\kovdo\source\repos\Balaton\BalatonGUI\obj\Debug\BalatonGUI.pdb
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\bin\Debug\BalatonGUI.exe.config
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\bin\Debug\BalatonGUI.exe
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\bin\Debug\BalatonGUI.pdb
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\App.g.cs
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI_MarkupCompile.cache
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI_MarkupCompile.lref
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI.g.resources
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI.exe
+C:\Users\ADMIN\Documents\Kovács Dominik 214.D\balaton\vizsgateszt\BalatonGUI\obj\Debug\BalatonGUI.pdb

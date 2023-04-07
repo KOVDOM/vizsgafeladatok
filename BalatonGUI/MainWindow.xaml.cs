@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Xml.Linq;
 
 namespace BalatonGUI
 {
@@ -40,16 +41,48 @@ namespace BalatonGUI
             }
             InitializeComponent();
             datagrid.ItemsSource = list;
+            List<string> uniqueList = new List<string>();
+
+            foreach (var item in list)
+            {
+                uniqueList.Add(item.adosav);
+
+            }
+            List<string> comboboxvalues = uniqueList.Distinct().ToList();
+
+            combobox.ItemsSource = comboboxvalues;
         }
 
         private void combobox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            
+            // Ellenőrizzük, hogy van-e kiválasztott elem
+            if (datagrid.SelectedItem != null)
+            {
+                // Elérjük a kiválasztott sorban található oszlop értékét
+                var selectedColumnValue = ((Adatok)datagrid.SelectedItem).adosav;
+
+                // Beállítjuk a ComboBox SelectedValue tulajdonságát a kiválasztott oszlop értékére
+                combobox.SelectedValue = selectedColumnValue;
+            }
         }
 
         private void modosit_Click(object sender, RoutedEventArgs e)
         {
+            if (datagrid.SelectedItem != null)
+            {
+                // Keresés a kijelölt sor indexét
+                int selectedIndex = datagrid.SelectedIndex;
 
+                // Keresés a ComboBox kiválasztott elemét
+                string newValue = combobox.SelectedItem.ToString();
+
+                // Az Items tulajdonságból kérjük le az adatsorunkat.
+                Adatok selectedRow = (Adatok)datagrid.SelectedItem;
+
+                // Módosítjuk az adatot
+                selectedRow.SetTaxchar(newValue);
+                datagrid.Items.Refresh();
+            }
         }
 
         private void mentes_Click(object sender, RoutedEventArgs e)
