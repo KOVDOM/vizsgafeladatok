@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\csudh\csudh\bin\Debug\csudh.exe.config
+C:\Users\ADMIN\source\repos\csudh\csudh\bin\Debug\csudh.exe
+C:\Users\ADMIN\source\repos\csudh\csudh\bin\Debug\csudh.pdb
+C:\Users\ADMIN\source\repos\csudh\csudh\obj\Debug\csudh.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\csudh\csudh\obj\Debug\csudh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\csudh\csudh\obj\Debug\csudh.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\csudh\csudh\obj\Debug\csudh.exe
+C:\Users\ADMIN\source\repos\csudh\csudh\obj\Debug\csudh.pdb
