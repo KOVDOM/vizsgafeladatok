@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Berek2020\Berek2020\bin\Debug\Berek2020.exe.config
+C:\Users\ADMIN\source\repos\Berek2020\Berek2020\bin\Debug\Berek2020.exe
+C:\Users\ADMIN\source\repos\Berek2020\Berek2020\bin\Debug\Berek2020.pdb
+C:\Users\ADMIN\source\repos\Berek2020\Berek2020\obj\Debug\Berek2020.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Berek2020\Berek2020\obj\Debug\Berek2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Berek2020\Berek2020\obj\Debug\Berek2020.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Berek2020\Berek2020\obj\Debug\Berek2020.exe
+C:\Users\ADMIN\source\repos\Berek2020\Berek2020\obj\Debug\Berek2020.pdb
