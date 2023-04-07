@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\JackieStewart\JackieStewart\bin\Debug\JackieStewart.exe.config
+C:\Users\ADMIN\source\repos\JackieStewart\JackieStewart\bin\Debug\JackieStewart.exe
+C:\Users\ADMIN\source\repos\JackieStewart\JackieStewart\bin\Debug\JackieStewart.pdb
+C:\Users\ADMIN\source\repos\JackieStewart\JackieStewart\obj\Debug\JackieStewart.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\JackieStewart\JackieStewart\obj\Debug\JackieStewart.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\JackieStewart\JackieStewart\obj\Debug\JackieStewart.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\JackieStewart\JackieStewart\obj\Debug\JackieStewart.exe
+C:\Users\ADMIN\source\repos\JackieStewart\JackieStewart\obj\Debug\JackieStewart.pdb
