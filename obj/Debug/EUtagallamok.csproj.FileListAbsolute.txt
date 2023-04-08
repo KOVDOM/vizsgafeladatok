@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\EUtagallamok\EUtagallamok\bin\Debug\EUtagallamok.exe.config
+C:\Users\ADMIN\source\repos\EUtagallamok\EUtagallamok\bin\Debug\EUtagallamok.exe
+C:\Users\ADMIN\source\repos\EUtagallamok\EUtagallamok\bin\Debug\EUtagallamok.pdb
+C:\Users\ADMIN\source\repos\EUtagallamok\EUtagallamok\obj\Debug\EUtagallamok.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\EUtagallamok\EUtagallamok\obj\Debug\EUtagallamok.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\EUtagallamok\EUtagallamok\obj\Debug\EUtagallamok.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\EUtagallamok\EUtagallamok\obj\Debug\EUtagallamok.exe
+C:\Users\ADMIN\source\repos\EUtagallamok\EUtagallamok\obj\Debug\EUtagallamok.pdb
