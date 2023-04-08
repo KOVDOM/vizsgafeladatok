@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\fifavilágranglista\fifavilágranglista\bin\Debug\fifavilágranglista.exe.config
+C:\Users\ADMIN\source\repos\fifavilágranglista\fifavilágranglista\bin\Debug\fifavilágranglista.exe
+C:\Users\ADMIN\source\repos\fifavilágranglista\fifavilágranglista\bin\Debug\fifavilágranglista.pdb
+C:\Users\ADMIN\source\repos\fifavilágranglista\fifavilágranglista\obj\Debug\fifavilágranglista.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\fifavilágranglista\fifavilágranglista\obj\Debug\fifavilágranglista.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\fifavilágranglista\fifavilágranglista\obj\Debug\fifavilágranglista.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\fifavilágranglista\fifavilágranglista\obj\Debug\fifavilágranglista.exe
+C:\Users\ADMIN\source\repos\fifavilágranglista\fifavilágranglista\obj\Debug\fifavilágranglista.pdb
