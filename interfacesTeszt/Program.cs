@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,15 +9,31 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace interfacesTeszt
 {
-        //Adott egy tömb, amelyben minden szám kétszer szerepel, kivéve egy számot.Keressük meg azt a számot, amely csak egyszer szerepel a tömbben!
+    //Adott egy tömb, amelyben minden szám kétszer szerepel, kivéve egy számot.Keressük meg azt a számot, amely csak egyszer szerepel a tömbben!
 
-        //Az adott szám számjegyeit adjuk össze egymás után addig, amíg egyetlen egyjegyű számot nem kapunk.Írjunk függvényt, amely visszaadja a kapott egyjegyű számot!
+    //Az adott szám számjegyeit adjuk össze egymás után addig, amíg egyetlen egyjegyű számot nem kapunk.Írjunk függvényt, amely visszaadja a kapott egyjegyű számot!
 
-        //Adott két string, ellenőrizzük, hogy a második string előfordul-e az első string-ben!
+    //Adott két string, ellenőrizzük, hogy a második string előfordul-e az első string-ben!
 
-        //Adott egy string, amely csak zárójeleket tartalmaz (például: "(()()()())"). Írjunk függvényt, amely ellenőrzi, hogy a zárójelek helyes sorrendben vannak-e!
+    //Adott egy string, amely csak zárójeleket tartalmaz (például: "(()()()())"). Írjunk függvényt, amely ellenőrzi, hogy a zárójelek helyes sorrendben vannak-e!
 
-        //Adott egy számokat tartalmazó tömb.Írjunk függvényt, amely visszaadja a tömb legnagyobb és legkisebb számát, valamint a számok átlagát és mediánját!
+    //Adott egy számokat tartalmazó tömb.Írjunk függvényt, amely visszaadja a tömb legnagyobb és legkisebb számát, valamint a számok átlagát és mediánját!
+
+    //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista összes számának átlagát!
+
+    //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista legnagyobb és legkisebb számának különbségét!
+
+    //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista mediánját!
+
+    //Adott egy string, amely tartalmaz kis- és nagybetűket.Írjunk függvényt, amely visszaadja a stringben található összes nagybetűt!
+
+    //Adott egy string, amely tartalmaz kis- és nagybetűket, valamint számokat és speciális karaktereket.Írjunk függvényt, amely visszaadja a stringben található összes számjegyet!
+
+    //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista összes számjának négyzetét!
+
+    //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista összes páros számjának átlagát!
+
+    //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista összes számjának harmadik hatványát!
 
     internal class Program
     {
@@ -205,6 +222,11 @@ namespace interfacesTeszt
             }
 
             return verem.Count == 0;
+        }
+
+        public static void UresFuggveny()
+        {
+            Console.WriteLine("Ez egy üres függvény!");
         }
     }
 }
