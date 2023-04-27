@@ -8,6 +8,16 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace interfacesTeszt
 {
+        //Adott egy tömb, amelyben minden szám kétszer szerepel, kivéve egy számot.Keressük meg azt a számot, amely csak egyszer szerepel a tömbben!
+
+        //Az adott szám számjegyeit adjuk össze egymás után addig, amíg egyetlen egyjegyű számot nem kapunk.Írjunk függvényt, amely visszaadja a kapott egyjegyű számot!
+
+        //Adott két string, ellenőrizzük, hogy a második string előfordul-e az első string-ben!
+
+        //Adott egy string, amely csak zárójeleket tartalmaz (például: "(()()()())"). Írjunk függvényt, amely ellenőrzi, hogy a zárójelek helyes sorrendben vannak-e!
+
+        //Adott egy számokat tartalmazó tömb.Írjunk függvényt, amely visszaadja a tömb legnagyobb és legkisebb számát, valamint a számok átlagát és mediánját!
+
     internal class Program
     {
         public interface IMegfordul
@@ -66,6 +76,7 @@ namespace interfacesTeszt
             Forgat(motor);
             Forgat(ember);
 
+            //szöveg bekérős betű számláló feladat
             Console.Write("Kérek egy szövet: ");
             string beker=Console.ReadLine();
             //var res = beker.Select(x => new string(x, 1)).ToArray();
@@ -86,7 +97,114 @@ namespace interfacesTeszt
 
             Console.WriteLine($"{max} a legtöbbször előforduló karakter {szotar[max]} darab");
 
+            //tömbös feladat
+            int[] tomb = { 1, 1, 2, 2, 3, 4, 4, 5, 5, 6, 6 };
+            Dictionary<int, int> szotartomb= new Dictionary<int, int>();
+            foreach (var c in tomb)
+            {
+                if(szotartomb.ContainsKey(c)) 
+                {
+                    szotartomb[c]++; 
+                }
+                else 
+                { 
+                    szotartomb.Add(c, 1); 
+                }
+            }
+
+            foreach (var item in szotartomb)
+            {
+                if (item.Value==1)
+                {
+                    Console.WriteLine($"A tömbben egy elem van amiből egy van {item.Key}");
+                    break;
+                }
+            }
+
+            //számos feladat
+            OsszeadEgyjegyuig(12345);
+
+            //string a stringben feladat
+            string string1 = "asdasdffff";
+            string string2 = "asdasd";
+            string ures = "";
+            if(string1.Contains(string2))
+            {
+                ures="string1 tartalmazza string2-et";
+            }
+            else
+            {
+                ures = "nem tartalmazza";
+            }
+            Console.WriteLine(ures);
+
+            //(()()()()) feladat
+            //string zarojel = "(()()()())";
+            //if (zarojel == "(()()()())")
+            //{
+            //    Console.WriteLine("megyegyezik");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("nem egyezik");
+            //}
+
+            string input = "(()()()())";
+            bool helyes = HelyesZarojelek(input);
+            Console.WriteLine($"A(z) '{input}' zárójelei {(helyes ? "helyesek" : "helytelenek")}.");
+
+            //második tömbös feladat
+            int[] tomb2 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
+            int legnagyobb =tomb2.OrderByDescending(x => x).First();
+            int legkisebb=tomb2.OrderByDescending(x=>x).Last();
+            double atlag=tomb2.Average();
+            Array.Sort(tomb2);
+
+            int medianIndex = tomb2.Length / 2;
+            double median = (tomb2.Length % 2 == 0) ?
+                ((double)tomb2[medianIndex] + (double)tomb2[medianIndex - 1]) / 2 :
+                (double)tomb2[medianIndex];
+            Console.WriteLine($"Legnagyobb: {legnagyobb}\nLegkisebb: {legkisebb}\nÁtlag: {atlag}\nMedian: {median}");
+
             Console.ReadKey();
+        }
+
+        public static int OsszeadEgyjegyuig(int szam)
+        {
+            while (szam > 9)
+            {
+                int ujSzam = 0;
+                while (szam != 0)
+                {
+                    ujSzam += szam % 10;
+                    szam /= 10;
+                }
+                szam = ujSzam;
+            }
+            Console.WriteLine(szam);
+            return szam;
+        }
+
+        public static bool HelyesZarojelek(string input)
+        {
+            Stack<char> verem = new Stack<char>();
+
+            foreach (char c in input)
+            {
+                if (c=='(')
+                {
+                    verem.Push(c);
+                }
+                else if (c==')')
+                {
+                    if (verem.Count == 0 || verem.Pop() != '(')
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return verem.Count == 0;
         }
     }
 }
