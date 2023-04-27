@@ -1,0 +1,8 @@
+C:\Users\kovdo\source\repos\interfacesTeszt\interfacesTeszt\bin\Debug\interfacesTeszt.exe.config
+C:\Users\kovdo\source\repos\interfacesTeszt\interfacesTeszt\bin\Debug\interfacesTeszt.exe
+C:\Users\kovdo\source\repos\interfacesTeszt\interfacesTeszt\bin\Debug\interfacesTeszt.pdb
+C:\Users\kovdo\source\repos\interfacesTeszt\interfacesTeszt\obj\Debug\interfacesTeszt.csproj.AssemblyReference.cache
+C:\Users\kovdo\source\repos\interfacesTeszt\interfacesTeszt\obj\Debug\interfacesTeszt.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovdo\source\repos\interfacesTeszt\interfacesTeszt\obj\Debug\interfacesTeszt.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\source\repos\interfacesTeszt\interfacesTeszt\obj\Debug\interfacesTeszt.exe
+C:\Users\kovdo\source\repos\interfacesTeszt\interfacesTeszt\obj\Debug\interfacesTeszt.pdb
