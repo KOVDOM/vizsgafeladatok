@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
@@ -42,7 +43,7 @@ namespace interfacesTeszt
             void Megfordul();
         }
 
-        public class Kocsi : IMegfordul 
+        public class Kocsi : IMegfordul
         {
             public void Megfordul()
             {
@@ -55,7 +56,7 @@ namespace interfacesTeszt
             public void Megfordul()
             {
                 Console.Write("Kérem az ember nevét: ");
-                string nev=Console.ReadLine();
+                string nev = Console.ReadLine();
                 Console.WriteLine($"{nev} megfordult!");
             }
         }
@@ -83,9 +84,10 @@ namespace interfacesTeszt
 
         static void Main(string[] args)
         {
+            Console.Title = "Cím";
             IMegfordul kocsi = new Kocsi();
-            IMegfordul teherauto= new Teherauto();
-            IMegfordul motor= new Motor();
+            IMegfordul teherauto = new Teherauto();
+            IMegfordul motor = new Motor();
             IMegfordul ember = new Ember();
 
             Forgat(kocsi);
@@ -95,10 +97,10 @@ namespace interfacesTeszt
 
             //szöveg bekérős betű számláló feladat
             Console.Write("Kérek egy szövet: ");
-            string beker=Console.ReadLine();
+            string beker = Console.ReadLine();
             //var res = beker.Select(x => new string(x, 1)).ToArray();
-            Dictionary<char, int> szotar=new Dictionary<char, int>();
-            foreach(char c in beker)
+            Dictionary<char, int> szotar = new Dictionary<char, int>();
+            foreach (char c in beker)
             {
                 if (szotar.ContainsKey(c))
                 {
@@ -110,28 +112,28 @@ namespace interfacesTeszt
                 }
             }
 
-            char max=szotar.OrderByDescending(x=>x.Value).FirstOrDefault().Key;
+            char max = szotar.OrderByDescending(x => x.Value).FirstOrDefault().Key;
 
             Console.WriteLine($"{max} a legtöbbször előforduló karakter {szotar[max]} darab");
 
             //tömbös feladat
             int[] tomb = { 1, 1, 2, 2, 3, 4, 4, 5, 5, 6, 6 };
-            Dictionary<int, int> szotartomb= new Dictionary<int, int>();
+            Dictionary<int, int> szotartomb = new Dictionary<int, int>();
             foreach (var c in tomb)
             {
-                if(szotartomb.ContainsKey(c)) 
+                if (szotartomb.ContainsKey(c))
                 {
-                    szotartomb[c]++; 
+                    szotartomb[c]++;
                 }
-                else 
-                { 
-                    szotartomb.Add(c, 1); 
+                else
+                {
+                    szotartomb.Add(c, 1);
                 }
             }
 
             foreach (var item in szotartomb)
             {
-                if (item.Value==1)
+                if (item.Value == 1)
                 {
                     Console.WriteLine($"A tömbben egy elem van amiből egy van {item.Key}");
                     break;
@@ -145,9 +147,9 @@ namespace interfacesTeszt
             string string1 = "asdasdffff";
             string string2 = "asdasd";
             string ures = "";
-            if(string1.Contains(string2))
+            if (string1.Contains(string2))
             {
-                ures="string1 tartalmazza string2-et";
+                ures = "string1 tartalmazza string2-et";
             }
             else
             {
@@ -172,9 +174,9 @@ namespace interfacesTeszt
 
             //második tömbös feladat
             int[] tomb2 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
-            int legnagyobb =tomb2.OrderByDescending(x => x).First();
-            int legkisebb=tomb2.OrderByDescending(x=>x).Last();
-            double atlag=tomb2.Average();
+            int legnagyobb = tomb2.OrderByDescending(x => x).First();
+            int legkisebb = tomb2.OrderByDescending(x => x).Last();
+            double atlag = tomb2.Average();
             Array.Sort(tomb2);
 
             int medianIndex = tomb2.Length / 2;
@@ -182,6 +184,29 @@ namespace interfacesTeszt
                 ((double)tomb2[medianIndex] + (double)tomb2[medianIndex - 1]) / 2 :
                 (double)tomb2[medianIndex];
             Console.WriteLine($"Legnagyobb: {legnagyobb}\nLegkisebb: {legkisebb}\nÁtlag: {atlag}\nMedian: {median}");
+
+            string input2 = "A hét 7 napból áll";
+            string numbers = ExactNumbers(input2);
+            Console.WriteLine(numbers);
+
+            //Adott egy string, amely tartalmaz kis-és nagybetűket.Írjunk függvényt, amely visszaadja a stringben található összes nagybetűt!
+            string betuk = "What is Lorem Ipsum?\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
+            string result = GetAllUppercaseLetters(betuk);
+            string result2 = GetAllLowercaseLetters(betuk);
+            string numbers2 = ExactNumbers(betuk);
+            Console.WriteLine(numbers2);
+            Console.WriteLine(result);
+            Console.WriteLine(result2);
+
+            List<int> numbers1234 = new List<int>() { 12,24,234,213,12,0213,2452,4254,23,234,123,1231 };
+            double average = AverageOfEvenNumbers(numbers1234);
+            Console.WriteLine(average);
+
+            double averageList=AverageOfNumbers(numbers1234);
+            Console.WriteLine(averageList);
+
+            int negyzet = NegyzetSzamok(numbers1234);
+            Console.WriteLine(negyzet);
 
             Console.ReadKey();
         }
@@ -208,11 +233,11 @@ namespace interfacesTeszt
 
             foreach (char c in input)
             {
-                if (c=='(')
+                if (c == '(')
                 {
                     verem.Push(c);
                 }
-                else if (c==')')
+                else if (c == ')')
                 {
                     if (verem.Count == 0 || verem.Pop() != '(')
                     {
@@ -227,6 +252,67 @@ namespace interfacesTeszt
         public static void UresFuggveny()
         {
             Console.WriteLine("Ez egy üres függvény!");
+        }
+
+        public static string ExactNumbers(string input2)
+        {
+            string numbers = "";
+            foreach (char c in input2)
+            {
+                if (Char.IsDigit(c)) numbers += c;
+            }
+            return numbers;
+        }
+
+        public static string GetAllUppercaseLetters(string betuk)
+        {
+            string result = "";
+            foreach (char c in betuk)
+            {
+                if (char.IsUpper(c)) result += c;
+            }
+            return result;
+        }
+
+        public static string GetAllLowercaseLetters(string betuk)
+        {
+            string result = "";
+            foreach (char c in betuk)
+            {
+                if (char.IsLower(c)) result += c;
+            }
+            return result;
+        }
+
+        //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista összes páros számjának átlagát!
+        public static double AverageOfEvenNumbers(List<int> numbers)
+        {
+            var evenNumbers = numbers.Where(n => n % 2 == 0);
+            if (evenNumbers.Any())
+            {
+                return evenNumbers.Average();
+            }
+            else
+            {
+                return 0;
+            }
+        }
+
+        //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista összes számának átlagát!
+        public static double AverageOfNumbers(List<int> numbers)
+        {
+            return numbers.Average();
+        }
+
+        //Adott egy számokat tartalmazó lista.Írjunk függvényt, amely visszaadja a lista összes számjának négyzetét!
+        public static int NegyzetSzamok(List<int> numbers)
+        {
+            int negyzet = 0;
+            foreach (int n in numbers)
+            {
+                negyzet = n * n;
+            }
+            return negyzet;
         }
     }
 }
