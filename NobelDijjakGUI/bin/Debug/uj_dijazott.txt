@@ -1,0 +1,2 @@
+﻿Év;Név;SzületésHalálozás;Országkód
+2023;Kovács Dominik;2001-;H

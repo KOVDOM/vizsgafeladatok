@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\bin\Debug\NobelDijjakGUI.exe.config
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\bin\Debug\NobelDijjakGUI.exe
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\bin\Debug\NobelDijjakGUI.pdb
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI.g.resources
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI.exe
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjakGUI\obj\Debug\NobelDijjakGUI.pdb

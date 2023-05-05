@@ -1,0 +1,21 @@
+﻿<Window x:Class="NobelDijjakGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NobelDijjakGUI"
+        mc:Ignorable="d"
+        Title="Orvosi Nobel-díjasok" Height="450" Width="800">
+    <Grid>
+        <Label Content="Év:" HorizontalAlignment="Left" Margin="153,74,0,0" VerticalAlignment="Top"/>
+        <Label Content="Név:" HorizontalAlignment="Left" Margin="153,124,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sz/H:" HorizontalAlignment="Left" Margin="153,173,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ország" HorizontalAlignment="Left" Margin="153,217,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ev" HorizontalAlignment="Left" Margin="237,82,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="nev" HorizontalAlignment="Left" Margin="237,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="szh" HorizontalAlignment="Left" Margin="237,181,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="orszag" HorizontalAlignment="Left" Margin="237,221,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="mentes" Content="Adatok mentése" HorizontalAlignment="Left" Margin="257,290,0,0" VerticalAlignment="Top" Width="100" Click="mentes_Click"/>
+
+    </Grid>
+</Window>

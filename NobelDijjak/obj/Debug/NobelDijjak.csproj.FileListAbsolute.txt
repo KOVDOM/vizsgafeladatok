@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjak\bin\Debug\NobelDijjak.exe.config
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjak\bin\Debug\NobelDijjak.exe
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjak\bin\Debug\NobelDijjak.pdb
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjak\obj\Debug\NobelDijjak.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjak\obj\Debug\NobelDijjak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjak\obj\Debug\NobelDijjak.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjak\obj\Debug\NobelDijjak.exe
+C:\Users\ADMIN\source\repos\NobelDijjak\NobelDijjak\obj\Debug\NobelDijjak.pdb
