@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karacsonyCLI", "karacsonyCLI\karacsonyCLI.csproj", "{C8B880EA-2D41-4A55-AD65-1FE6A85F3862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karacsonyGUI", "karacsonyGUI\karacsonyGUI.csproj", "{355DF31F-0728-4A09-AF49-0B2955E4884C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8B880EA-2D41-4A55-AD65-1FE6A85F3862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B880EA-2D41-4A55-AD65-1FE6A85F3862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B880EA-2D41-4A55-AD65-1FE6A85F3862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B880EA-2D41-4A55-AD65-1FE6A85F3862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355DF31F-0728-4A09-AF49-0B2955E4884C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355DF31F-0728-4A09-AF49-0B2955E4884C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355DF31F-0728-4A09-AF49-0B2955E4884C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355DF31F-0728-4A09-AF49-0B2955E4884C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9FCACF-59E2-4BD1-8BA9-2AE174DFDFE9}
+	EndGlobalSection
+EndGlobal

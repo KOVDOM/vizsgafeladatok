@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\bin\Debug\karacsonyGUI.exe.config
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\bin\Debug\karacsonyGUI.exe
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\bin\Debug\karacsonyGUI.pdb
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI.g.resources
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI.exe
+C:\Users\ADMIN\source\repos\karacsonyCLI\karacsonyGUI\obj\Debug\karacsonyGUI.pdb
