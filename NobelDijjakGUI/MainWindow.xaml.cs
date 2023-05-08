@@ -38,7 +38,7 @@ namespace NobelDijjakGUI
         private void mentes_Click(object sender, RoutedEventArgs e)
         {
             var evasdf = int.Parse(ev.Text);
-            if (ev.Text=="" || nev.Text == "" || szh.Text == "" || orszag.Text == "")
+            if (ev.Text == "" || nev.Text == "" || szh.Text == "" || orszag.Text == "")
             {
                 MessageBox.Show("Töltsön ki minden mezőt!");
             }
@@ -55,7 +55,7 @@ namespace NobelDijjakGUI
                     sw.WriteLine("Év;Név;SzületésHalálozás;Országkód");
                     foreach (var item in list)
                     {
-                        irando=$"{evasdf};{nev.Text};{szh.Text};{orszag.Text}";
+                        irando=$"{ev.Text};{nev.Text};{szh.Text};{orszag.Text}";
                     }
                     sw.WriteLine(irando);
                     sw.Close();

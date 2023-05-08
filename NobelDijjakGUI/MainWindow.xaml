@@ -11,7 +11,7 @@
         <Label Content="Név:" HorizontalAlignment="Left" Margin="153,124,0,0" VerticalAlignment="Top"/>
         <Label Content="Sz/H:" HorizontalAlignment="Left" Margin="153,173,0,0" VerticalAlignment="Top"/>
         <Label Content="Ország" HorizontalAlignment="Left" Margin="153,217,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="ev" HorizontalAlignment="Left" Margin="237,82,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="ev" HorizontalAlignment="Left" Margin="237,82,0,0" TextWrapping="Wrap" Text="1990" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="nev" HorizontalAlignment="Left" Margin="237,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="szh" HorizontalAlignment="Left" Margin="237,181,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="orszag" HorizontalAlignment="Left" Margin="237,221,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
