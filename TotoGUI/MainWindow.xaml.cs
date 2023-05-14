@@ -33,17 +33,33 @@ namespace TotoGUI
         private void beviteltxt_KeyDown(object sender, KeyEventArgs e)
         {
             string bevitel=beviteltxt.Text;
-            if (bevitel.Length> 14 || bevitel.Length<14)
+            if (bevitel.Length!=14)
             {
                 nemmeg.IsChecked = true;
-                hosszlbl.Content = $"({bevitel.Length})";
             }
-            //if (bevitel.Length == 14)
             else
             {
                 nemmeg.IsChecked=false;
-                hosszlbl.Content = $"({bevitel.Length})";
             }
+            hosszlbl.Content = $"({bevitel.Length})";
+
+            string hibas = "";
+            foreach (var item in bevitel)
+            {
+                if (item != '1' && item != '2' && item != 'X')
+                {
+                    hibas += item+";";
+                }
+            }
+            if (hibas.Length>0)
+            {
+                nemmeg.IsChecked = false;
+            }
+            else
+            {
+                nemmeg.IsChecked=true;
+            }
+            rosszkarlbl.Content = $"({hibas})";
         }
     }
 }

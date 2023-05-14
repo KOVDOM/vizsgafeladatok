@@ -13,7 +13,7 @@
         <CheckBox x:Name="helytel" Content="Helytelen karakter az eredményben" HorizontalAlignment="Left" Margin="148,187,0,0" VerticalAlignment="Top"/>
         <Button x:Name="mentes" Content="Eredmények mentése" HorizontalAlignment="Left" Margin="148,234,0,0" VerticalAlignment="Top" Height="23" Width="196"/>
         <Label x:Name="hosszlbl" Content="" HorizontalAlignment="Left" Margin="349,149,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="rosszkarlbl" Content="()" HorizontalAlignment="Left" Margin="355,181,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="rosszkarlbl" Content="" HorizontalAlignment="Left" Margin="355,181,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
