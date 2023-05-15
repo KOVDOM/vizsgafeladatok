@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Egyszamjatek\Egyszamjatek\bin\Debug\Egyszamjatek.exe.config
+C:\Users\ADMIN\source\repos\Egyszamjatek\Egyszamjatek\bin\Debug\Egyszamjatek.exe
+C:\Users\ADMIN\source\repos\Egyszamjatek\Egyszamjatek\bin\Debug\Egyszamjatek.pdb
+C:\Users\ADMIN\source\repos\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.exe
+C:\Users\ADMIN\source\repos\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.pdb

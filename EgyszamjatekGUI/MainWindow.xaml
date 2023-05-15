@@ -1,0 +1,17 @@
+﻿<Window x:Class="EgyszamjatekGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EgyszamjatekGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Játékos neve:" HorizontalAlignment="Left" Margin="156,107,0,0" VerticalAlignment="Top"/>
+        <Label Content="Játékos tippjei:" HorizontalAlignment="Left" Margin="156,138,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="nevtxt" HorizontalAlignment="Left" Margin="263,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="192"/>
+        <TextBox x:Name="tipptxt" HorizontalAlignment="Left" Margin="263,146,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="192"/>
+        <Button x:Name="hozzaad" Content="Játékos hozzáadása" HorizontalAlignment="Left" Margin="263,197,0,0" VerticalAlignment="Top" Width="169" Click="Button_Click"/>
+
+    </Grid>
+</Window>

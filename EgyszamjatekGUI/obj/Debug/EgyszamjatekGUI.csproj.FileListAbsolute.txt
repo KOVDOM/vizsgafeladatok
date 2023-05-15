@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\bin\Debug\EgyszamjatekGUI.exe.config
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\bin\Debug\EgyszamjatekGUI.exe
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\bin\Debug\EgyszamjatekGUI.pdb
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.g.resources
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.exe
+C:\Users\ADMIN\source\repos\Egyszamjatek\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.pdb
