@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BukkMaraton2019", "BukkMaraton2019\BukkMaraton2019.csproj", "{B4BA2EDD-4772-4543-9342-755A22EE22E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BukkMaraton2019GUI", "BukkMaraton2019GUI\BukkMaraton2019GUI.csproj", "{2DC07806-DBDF-4DDE-A017-DDD5A7D7BFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BA2EDD-4772-4543-9342-755A22EE22E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BA2EDD-4772-4543-9342-755A22EE22E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BA2EDD-4772-4543-9342-755A22EE22E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BA2EDD-4772-4543-9342-755A22EE22E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC07806-DBDF-4DDE-A017-DDD5A7D7BFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC07806-DBDF-4DDE-A017-DDD5A7D7BFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC07806-DBDF-4DDE-A017-DDD5A7D7BFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC07806-DBDF-4DDE-A017-DDD5A7D7BFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B20F30-C144-42E0-970D-BC998F267F50}
+	EndGlobalSection
+EndGlobal
