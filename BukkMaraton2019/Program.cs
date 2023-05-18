@@ -92,7 +92,7 @@ namespace BukkMaraton2019
                   .OrderBy(item => item.ido)
                   .FirstOrDefault();
 
-            if (gyoztes != null)
+            if (gyozteslinq != null)
             {
                 Console.WriteLine($"7. feladat: A felnőtt férfi (ff) kategória győztese rövid távon");
                 Console.WriteLine($"\tRajtszam: {gyozteslinq.rajtszam}");
