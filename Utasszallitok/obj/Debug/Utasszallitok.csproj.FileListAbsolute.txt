@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Utasszallitok\Utasszallitok\bin\Debug\Utasszallitok.exe.config
+C:\Users\ADMIN\source\repos\Utasszallitok\Utasszallitok\bin\Debug\Utasszallitok.exe
+C:\Users\ADMIN\source\repos\Utasszallitok\Utasszallitok\bin\Debug\Utasszallitok.pdb
+C:\Users\ADMIN\source\repos\Utasszallitok\Utasszallitok\obj\Debug\Utasszallitok.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Utasszallitok\Utasszallitok\obj\Debug\Utasszallitok.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Utasszallitok\Utasszallitok\obj\Debug\Utasszallitok.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Utasszallitok\Utasszallitok\obj\Debug\Utasszallitok.exe
+C:\Users\ADMIN\source\repos\Utasszallitok\Utasszallitok\obj\Debug\Utasszallitok.pdb

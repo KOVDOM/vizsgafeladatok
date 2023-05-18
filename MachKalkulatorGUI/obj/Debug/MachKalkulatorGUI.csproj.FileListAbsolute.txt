@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\bin\Debug\MachKalkulatorGUI.exe.config
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\bin\Debug\MachKalkulatorGUI.exe
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\bin\Debug\MachKalkulatorGUI.pdb
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI.g.resources
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI.exe
+C:\Users\ADMIN\source\repos\Utasszallitok\MachKalkulatorGUI\obj\Debug\MachKalkulatorGUI.pdb
