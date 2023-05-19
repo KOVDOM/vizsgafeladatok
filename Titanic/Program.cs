@@ -81,6 +81,17 @@ namespace Titanic
             {
                 Console.WriteLine("\tNincs találat!");
             }
+
+            bool vanelinq = list.Any(item => item.katnev.Contains(input));
+
+            if (vanelinq)
+            {
+                Console.WriteLine("\tVan találat!");
+            }
+            else
+            {
+                Console.WriteLine("\tNincs találat!");
+            }
         }
 
         public static void Feladat5()
