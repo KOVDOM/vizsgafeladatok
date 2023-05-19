@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Titanic\Titanic\bin\Debug\Titanic.exe.config
+C:\Users\ADMIN\source\repos\Titanic\Titanic\bin\Debug\Titanic.exe
+C:\Users\ADMIN\source\repos\Titanic\Titanic\bin\Debug\Titanic.pdb
+C:\Users\ADMIN\source\repos\Titanic\Titanic\obj\Debug\Titanic.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Titanic\Titanic\obj\Debug\Titanic.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Titanic\Titanic\obj\Debug\Titanic.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Titanic\Titanic\obj\Debug\Titanic.exe
+C:\Users\ADMIN\source\repos\Titanic\Titanic\obj\Debug\Titanic.pdb
