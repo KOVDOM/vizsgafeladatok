@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\SuperBowl\SuperBowl\bin\Debug\SuperBowl.exe.config
+C:\Users\ADMIN\source\repos\SuperBowl\SuperBowl\bin\Debug\SuperBowl.exe
+C:\Users\ADMIN\source\repos\SuperBowl\SuperBowl\bin\Debug\SuperBowl.pdb
+C:\Users\ADMIN\source\repos\SuperBowl\SuperBowl\obj\Debug\SuperBowl.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SuperBowl\SuperBowl\obj\Debug\SuperBowl.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\SuperBowl\SuperBowl\obj\Debug\SuperBowl.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SuperBowl\SuperBowl\obj\Debug\SuperBowl.exe
+C:\Users\ADMIN\source\repos\SuperBowl\SuperBowl\obj\Debug\SuperBowl.pdb

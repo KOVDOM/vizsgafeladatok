@@ -1,0 +1,56 @@
+﻿Ssz;Dátum;Győztes;Eredmény;Vesztes;Nézőszám
+I.;1967. 01. 15. 0:00:00;Green Bay Packers (1);35-10;Kansas City Chiefs (1);61946
+II.;1968. 01. 14. 0:00:00;Green Bay Packers (2);33-14;Oakland Raiders (2);75546
+III.;1969. 01. 12. 0:00:00;New York Jets (3);16-7;Baltimore Colts (3);75389
+IV.;1970. 01. 11. 0:00:00;Kansas City Chiefs (4);23-7;Minnesota Vikings (4);80562
+V.;1971. 01. 17. 0:00:00;Baltimore Colts (5);16-13;Dallas Cowboys (5);79204
+VI.;1972. 01. 16. 0:00:00;Dallas Cowboys (6);24-3;Miami Dolphins (6);81023
+VII.;1973. 01. 14. 0:00:00;Miami Dolphins (7);14-7;Washington Redskins (7);90182
+VIII.;1974. 01. 13. 0:00:00;Miami Dolphins (8);24-7;Minnesota Vikings (8);71882
+IX.;1975. 01. 12. 0:00:00;Pittsburgh Steelers (9);16-6;Minnesota Vikings (9);80997
+X.;1976. 01. 18. 0:00:00;Pittsburgh Steelers (10);21-17;Dallas Cowboys (10);80187
+XI.;1977. 01. 09. 0:00:00;Oakland Raiders (11);32-14;Minnesota Vikings (11);103438
+XII.;1978. 01. 15. 0:00:00;Dallas Cowboys (12);27-10;Denver Broncos (12);76400
+XIII.;1979. 01. 21. 0:00:00;Pittsburgh Steelers (13);35-31;Dallas Cowboys (13);79484
+XIV.;1980. 01. 20. 0:00:00;Pittsburgh Steelers (14);31-19;Los Angeles Rams (14);103985
+XV.;1981. 01. 25. 0:00:00;Oakland Raiders (15);27-10;Philadelphia Eagles (15);76135
+XVI.;1982. 01. 24. 0:00:00;San Francisco 49ers (16);26-21;Cincinnati Bengals (16);81270
+XVII.;1983. 01. 30. 0:00:00;Washington Redskins (17);27-17;Miami Dolphins (17);103667
+XVIII.;1984. 01. 22. 0:00:00;Los Angeles Raiders (18);38-9;Washington Redskins (18);72920
+XIX.;1985. 01. 20. 0:00:00;San Francisco 49ers (19);38-16;Miami Dolphins (19);84059
+XX.;1986. 01. 26. 0:00:00;Chicago Bears (20);46-10;New England Patriots (20);73818
+XXI.;1987. 01. 25. 0:00:00;New York Giants (21);39-20;Denver Broncos (21);101063
+XXII.;1988. 01. 31. 0:00:00;Washington Redskins (22);42-10;Denver Broncos (22);73302
+XXIII.;1989. 01. 22. 0:00:00;San Francisco 49ers (23);20-16;Cincinnati Bengals (23);75129
+XXIV.;1990. 01. 28. 0:00:00;San Francisco 49ers (24);55-10;Denver Broncos (24);72919
+XXV.;1991. 01. 27. 0:00:00;New York Giants (25);20-19;Buffalo Bills (25);73813
+XXVI.;1992. 01. 26. 0:00:00;Washington Redskins (26);37-24;Buffalo Bills (26);63130
+XXVII.;1993. 01. 31. 0:00:00;Dallas Cowboys (27);52-17;Buffalo Bills (27);98374
+XXVIII.;1994. 01. 30. 0:00:00;Dallas Cowboys (28);30-13;Buffalo Bills (28);72817
+XXIX.;1995. 01. 29. 0:00:00;San Francisco 49ers (29);49-26;San Diego Chargers (29);74107
+XXX.;1996. 01. 28. 0:00:00;Dallas Cowboys (30);27-17;Pittsburgh Steelers (30);76347
+XXXI.;1997. 01. 26. 0:00:00;Green Bay Packers (31);35-21;New England Patriots (31);72301
+XXXII.;1998. 01. 25. 0:00:00;Denver Broncos (32);31-24;Green Bay Packers (32);68912
+XXXIII.;1999. 01. 31. 0:00:00;Denver Broncos (33);34-19;Atlanta Falcons (33);74803
+XXXIV.;2000. 01. 30. 0:00:00;St. Louis Rams (34);23-16;Tennessee Titans (34);72625
+XXXV.;2001. 01. 28. 0:00:00;Baltimore Ravens (35);34-7;New York Giants (35);71921
+XXXVI.;2002. 02. 03. 0:00:00;New England Patriots (36);20-17;St. Louis Rams (36);72922
+XXXVII.;2003. 01. 26. 0:00:00;Tampa Bay Buccaneers (37);48-21;Oakland Raiders (37);67603
+XXXVIII.;2004. 02. 01. 0:00:00;New England Patriots (38);32-29;Carolina Panthers (38);71525
+XXXIX.;2005. 02. 06. 0:00:00;New England Patriots (39);24-21;Philadelphia Eagles (39);78125
+XL.;2006. 02. 05. 0:00:00;Pittsburgh Steelers (40);21-10;Seattle Seahawks (40);68206
+XLI.;2007. 02. 04. 0:00:00;Indianapolis Colts (41);29-17;Chicago Bears (41);74512
+XLII.;2008. 02. 03. 0:00:00;New York Giants (42);17-14;New England Patriots (42);71101
+XLIII.;2009. 02. 01. 0:00:00;Pittsburgh Steelers (43);27-23;Arizona Cardinals (43);70774
+XLIV.;2010. 02. 07. 0:00:00;New Orleans Saints (44);31-17;Indianapolis Colts (44);74059
+XLV.;2011. 02. 06. 0:00:00;Green Bay Packers (45);31-25;Pittsburgh Steelers (45);103219
+XLVI.;2012. 02. 05. 0:00:00;New York Giants (46);21-17;New England Patriots (46);68658
+XLVII.;2013. 02. 03. 0:00:00;Baltimore Ravens (47);34-31;San Francisco 49ers (47);71024
+XLVIII.;2014. 02. 02. 0:00:00;Seattle Seahawks (48);43-8;Denver Broncos (48);82529
+XLIX.;2015. 02. 01. 0:00:00;New England Patriots (49);28-24;Seattle Seahawks (49);70288
+L.;2016. 02. 07. 0:00:00;Denver Broncos (50);24-10;Carolina Panthers (50);71088
+LI.;2017. 02. 05. 0:00:00;New England Patriots (51);34-28;Atlanta Falcons (51);70807
+LII.;2018. 02. 04. 0:00:00;Philadelphia Eagles (52);41-33;New England Patriots (52);67612
+LIII.;2019. 02. 03. 0:00:00;New England Patriots (53);13-3;Los Angeles Rams (53);70081
+LIV.;2020. 02. 02. 0:00:00;Kansas City Chiefs (54);31-20;San Francisco 49ers (54);62417
+LV.;2021. 02. 07. 0:00:00;Tampa Bay Buccaneers (55);31-9;Kansas City Chiefs (55);24835
