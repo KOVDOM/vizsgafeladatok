@@ -1,0 +1,2 @@
+﻿Év;Név;SzületésHalálozás;Országkód
+1990;Joseph Edward Murray;1919-2012;USA
