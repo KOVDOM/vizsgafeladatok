@@ -62,6 +62,18 @@ namespace fifavilágranglista
             {
                 Console.WriteLine("6. feladat: A csapatok között nincs Magyarország");
             }
+            
+            //ugyanez linq-val
+            bool szerepel = list.Any(item => item.csapat == "Magyarország");
+
+            if (szerepel)
+            {
+                Console.WriteLine("6. feladat: Magyarország szerepel a csapatok között");
+            }
+            else
+            {
+                Console.WriteLine("6. feladat: A csapatok között nincs Magyarország");
+            }
         }
 
         public static void Feladat7()
